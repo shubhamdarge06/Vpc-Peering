@@ -1,5 +1,4 @@
-# Vpc-Peering
-VPC Peering Setup and Inter-VPC Connectivity !!!!!
+# VPC Peering Setup and Inter-VPC Connectivity !!!!!
 Just done the vpc peering configuration
 
 VPC PEERING is used for communicating with different vpc which is present in same region or different region.
@@ -27,4 +26,9 @@ We also have to configure the Security Group.
 YOU CAN NOW ACCESS THE INSTANCE LOCATED IN THE DIFFERENT VPC !
 
 ![Vpc_Peering](https://github.com/user-attachments/assets/4da45a4e-1e33-4eec-84ed-98a368f5850d)
+
+
+https://github.com/user-attachments/assets/f60bfee6-76cb-427d-840f-4da10e0b183c
+
+
 
