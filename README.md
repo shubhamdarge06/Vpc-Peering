@@ -25,3 +25,6 @@ Add route -> Enter Destination IP -> Select Target ( Peering Connection ) -> Sel
 We also have to configure the Security Group.
 
 YOU CAN NOW ACCESS THE INSTANCE LOCATED IN THE DIFFERENT VPC !
+
+![Vpc_Peering](https://github.com/user-attachments/assets/4da45a4e-1e33-4eec-84ed-98a368f5850d)
+
